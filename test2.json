@@ -1,0 +1,11 @@
+{
+"identity": 0,
+"labels": [
+        "STUDENT"
+      ],
+"properties": {
+"name": "anna",
+"class": 4,
+"age": 10
+      }
+    }
